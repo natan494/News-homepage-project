@@ -27,7 +27,7 @@ Very dark blue: hsl(240, 100%, 5%)
 }
 body {
 	font-size: 10px;
-	width: 100vw;
+	width: 100;
 	overflow-x: hidden;
 }
 
